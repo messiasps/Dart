@@ -14,7 +14,7 @@ main() {
   double n2 = -5.67;
 
   print('Valor absoluto é: ' + n2.abs().toString());
-  print('o valor da da variavel n1: $n1');//outra forma de motrar na tela o valor
+  print('o valor da da variavel n1: $n1');//outra forma de mostrar na tela o valor
 
   String a = 'bom';
   String b = ' dia';
