@@ -15,4 +15,8 @@ void main() {
   //operação antes de incrementar, já quando vc coloca o operador antes do 
   //operando fica definido que é urgencia, tem uma maior precedencia, ou seja 
   //é processado antes da comparação, já o a++ é processado depois da comparação.
+
+  //! operadores unários
+  print(!true);
+  print(!false);
 }
