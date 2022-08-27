@@ -1,0 +1,4 @@
+//MAPAS e REDUCE
+main() {
+
+}
