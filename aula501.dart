@@ -37,7 +37,8 @@ double get preco {
 Para corrigir, basta adicionar o símbolo ! lá dentro do Getter:
 
 _preco = produto!.precoComDesconto;
-No próximo exemplo as duas outras formas de correção funcionam, o erro acontece lá nos parâmetros da função “saudacao”:
+No próximo exemplo as duas outras formas de correção funcionam, 
+o erro acontece lá nos parâmetros da função “saudacao”:
 
 main() {
   saudacao(idade: 23, nome: "maria");
