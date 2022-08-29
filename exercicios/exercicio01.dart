@@ -1,4 +1,4 @@
-//17 - Escreva um programa que leia um determinado valor positivo e calcule o seu dobro.
+//Escreva um programa que leia um determinado valor positivo e calcule o seu dobro.
 import 'dart:io';
 void main() {
   
