@@ -14,7 +14,7 @@ class Data {
 }
 main() {
 
-  var dataFinal = Data.com(dia: 23, mes: 7, ano: 2024);
+  var dataFinal = Data.com(dia: 23, mes: 7);
 
   String d1 = dataFinal.obter(); 
   print(d1);
