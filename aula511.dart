@@ -12,7 +12,7 @@ main() {
   imprimirData();
 }
 
-int numeroAleatorio([int maximo = 11]) {//parâmetro opcional posicional colocando dentro []
+int numeroAleatorio([int maximo = 11]) {//parâmetro opcional, posicional, colocando dentro []
   return Random().nextInt(maximo);
 }
 

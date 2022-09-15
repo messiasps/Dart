@@ -1,7 +1,8 @@
 //Armazenar uma função em uma variável
 main() {
-  //tipo nome = valor
-  int Function(int, int) soma1 = somaFn;
+  //tipo da var, nome da var = valor;
+  
+  int Function(int, int) soma1 = somaFn;//É dessa forma que armazeno uma função em uma variável
   print(soma1(20, 113));
 
   int Function(int, int) soma2 = (x, y) {
